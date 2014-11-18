@@ -1,4 +1,6 @@
 ukulelegame
 ===========
 
-The Ukulele Game
+Open Source Ukulele Game.
+
+More info "soon".
